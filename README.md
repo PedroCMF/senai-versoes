@@ -6,3 +6,6 @@ lembrei do comando: git status
 =======
 lembrei do comando: git commit
 >>>>>>> exemplo-branch
+
+
+teste primeira branch
