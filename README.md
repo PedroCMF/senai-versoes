@@ -4,3 +4,4 @@ readme de exemplo
 lembrei do comando: git status
 
 novo teste
+pedro celestin
